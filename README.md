@@ -13,16 +13,16 @@
 - [x] Lecture
 
 ### Prerequisite
-1. Create a conda environment in name of your favor
-`conda create --name myenv`
+1. Create a conda environment in name of your favor\
+`conda create --name myenv`\
 if you have any trouble shooting, click [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
-2. Activate your new environment created with Conda
+2. Activate your new environment created with Conda\
 `conda activate myenv`
-3. Install otter-grader
+3. Install otter-grader\
 `pip install otter-grader`
-4. Add a shell script so that your test files have parameters `OK_FORMAT = True`
-Find the shell script named 'add_ok.sh' in [lab](https://github.com/baichuanzhou/data100/tree/master/lab) and [hw](https://github.com/baichuanzhou/data100/tree/master/hw)
-Use command line to execute the shell script
+4. Add a shell script so that your test files have parameters `OK_FORMAT = True`\
+Find the shell script named 'add_ok.sh' in [lab](https://github.com/baichuanzhou/data100/tree/master/lab) and [hw](https://github.com/baichuanzhou/data100/tree/master/hw)\
+Use command line to execute the shell script\
 `bash add_ok.sh`
 
 That should wrap things up and now you can proceed with assignments without any trouble.
