@@ -3,7 +3,8 @@
 *Special thanks to the data100 crew for selflessly open source all class materials*
 
 * For class link, please click [here](https://ds100.org/fa21/)
-* For lecture book, please click [here](https://www.textbook.ds100.org/)
+* For textbook, please click [here](https://www.textbook.ds100.org/)
+* For setup locally, please click [here](https://ds100.org/fa21/setup/)
 
 ### This repo contains my implementations of:
 - [ ] Homework (2/14)
