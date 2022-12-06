@@ -4,6 +4,7 @@
 
 * For class link, please click [here](https://ds100.org/fa21/)
 * For textbook, please click [here](https://www.textbook.ds100.org/)
+* For setup locally, please click [here](https://ds100.org/fa21/setup/)
 
 ### This repo contains my implementations of:
 - [ ] Homework (2/14)
