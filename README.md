@@ -1,6 +1,6 @@
 # This is my Data100 Repo (Fall, 2021)
 
-*Special thanks to the data100 crew for selflessly open source all class materials*
+*Special thanks to the data100 crew for selflessly open sourcing all class materials*
 
 * For class link, please click [here](https://ds100.org/fa21/)
 * For textbook, please click [here](https://www.textbook.ds100.org/)
