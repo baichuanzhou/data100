@@ -7,9 +7,9 @@
 * For setup locally, please click [here](https://ds100.org/fa21/setup/)
 
 ### This repo contains my implementations of:
-- [ ] Homework (2/14)
-- [ ] Lab (2/15)
-- [ ] Disc (1/4)
+- [ ] Homework (3/14)
+- [ ] Lab (3/15)
+- [ ] Disc (2/4)
 - [ ] Project(0/1)
 - [x] Lecture
 
